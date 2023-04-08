@@ -1,4 +1,3 @@
-
 use std::{
 	ffi::OsString,
 	path::{Component, Path, PathBuf},
