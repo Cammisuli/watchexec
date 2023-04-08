@@ -20,6 +20,7 @@ use watchexec_filterer_globset::GlobsetFilterer;
 use crate::args::{Args, FsEvent};
 
 mod dirs;
+mod proglib;
 mod progs;
 #[cfg(windows)]
 mod windows_norm;
